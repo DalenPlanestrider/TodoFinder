@@ -1,5 +1,5 @@
 # TodoFinder
-CLI utility to scan source files for todo comments
+CLI utility to scan source files for todo comments. Like the emacs [fixmee](https://github.com/rolandwalker/fixmee) plugin severity is determined by the number of 'O' or 'E' charaters that trail the todo/fixme statement
 
 Currently only supports Linux, but could easily be ported to Windows by reimplementing parseFile to not use mmap()
 
