@@ -21,4 +21,5 @@ Accepted arguments
 |-ofn |--order-filenameby    |Order the filenames by: [alphabetical, discovery, length]|
 
 Example of usage that I have mapped in vim
+
 ftodo -ed=external -ae=.h -ae=.hpp -ae=.cpp -ae=.c -ofn=length
